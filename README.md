@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Sirohi</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working on [TripWhiz](https://github.com/YuvrajS04/TripWhiz)
+- 🔭 I’m currently working on [Portfolio](https://github.com/YuvrajS04/portfolio)
 
 - 👨‍💻 All of my projects are available at [https://github.com/YuvrajS04](https://github.com/YuvrajS04)
 
