@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajs04&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajs04" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/YuvrajS04/portfolio)
+- 🔭 I’m currently working on [The Kitchen](https://github.com/YuvrajS04/The-kitchen)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Redux-toolkit**
 
 - 👨‍💻 All of my projects are available at [https://yuvrajsirohi.netlify.app/](https://yuvrajsirohi.netlify.app/)
 
