@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **yuvrajsirohi22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xfm8iVOW6U4U4CTTqx8Z5Tsxl_zPr5lr/view?usp=sharing](https://drive.google.com/file/d/1xfm8iVOW6U4U4CTTqx8Z5Tsxl_zPr5lr/view?usp=sharing)
-
+- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1Mmkl_HkrcKufJomjVRjtfBqfBsD1PtO1/view?usp=sharing)]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yuvraj-sirohi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuvraj-sirohi/" height="30" width="40" /></a>
